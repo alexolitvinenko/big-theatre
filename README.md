@@ -4,6 +4,7 @@
 Стек:  
 HTML5  
 CSS3  
+Bootstrap 5  
 JS (ES6)  
 Jquery  
 
